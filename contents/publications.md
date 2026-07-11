@@ -1,6 +1,4 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- [How to Set the Learning Rate for Large-Scale Pre-training?](https://aclanthology.org/2026.findings-acl.1861/) | Yunhua Zhou, **Shuhao Xing**, Junhao Huang, Xipeng Qiu, and Qipeng Guo.
+- [Capability Salience Vector: Fine-grained Alignment of Loss, Capabilities for Downstream Task Scaling Law](https://aclanthology.org/2025.acl-long.1157/) | Qiming Ge, **Shuhao Xing**, Songyang Gao, Yunhua Zhou, Yicheng Zou, Songyang Zhang, Zhi Chen, Hang Yan, Qi Zhang, Qipeng Guo Kai Chen.
+- [CoLLiE: Collaborative Training of Large Language Models in an Efficient Way](https://aclanthology.org/2023.emnlp-demo.48/) | Kai Lv, Shuo Zhang, Tianle Gu, **Shuhao Xing**, Jiawei Hong, Keyu Chen, XiaoranLiu, Yuqing Yang, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang YanXipeng Qiu.
+- [Code Needs Comments: Enhancing Code LLMs with Comment Augmentation](https://aclanthology.org/2024.findings-acl.809/) | Demin Song, Honglin Guo, Yunhua Zhou, **Shuhao Xing**, Yudong Wang, Zifan Song, Wenwei Zhang, Qipeng Guo, Hang Yan, Xipeng Qiu„ Dahua Lin.

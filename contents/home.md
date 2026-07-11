@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![x54-729](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/x54-729)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+#### Name
+邢书豪 | Shuhao Xing
+
+#### Region
+Shanghai, China
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>xingshuhao.dispatch@pjlab.org.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Fudan University**, Bachelor of Computer Science and Technology (2017.09 – 2021.06)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Fudan University**, Master of Computer Technology (2023.09 – 2026.06)
 
 #### Research Interests  
-XX, XX, XX, XX.
+
+Scaling Law, Pretrain, AI4S, Language Model

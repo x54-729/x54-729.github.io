@@ -1,4 +1,4 @@
-[![x54-729](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/x54-729)
+[![x54-729](https://img.shields.io/badge/x54-github-blue?logo=github)](https://github.com/x54-729)
 
 #### Name
 邢书豪 | Shuhao Xing
@@ -14,6 +14,11 @@ Shanghai, China
 
 **Fudan University**, Master of Computer Technology (2023.09 – 2026.06)
 
+----
+**复旦大学**，计算机科学与技术 理学学士（2017.09 – 2021.06）
+
+**复旦大学**, 计算机技术 硕士（2023.09 – 2026.06）
+
 #### Research Interests  
 
-Scaling Law, Pretrain, AI4S, Language Model
+Large Language Model, Scaling Law, Pretrain

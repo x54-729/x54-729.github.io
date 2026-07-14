@@ -1,4 +1,4 @@
-[![x54-729](https://img.shields.io/badge/x54-github-blue?logo=github)](https://github.com/x54-729)
+[![x54-729](https://img.shields.io/badge/x54--729-github-black?logo=github)](https://github.com/x54-729) [![x54-729](https://img.shields.io/badge/Shuhao_Xing-google_scholar-blue?logo=google-scholar)]([https://github.com/x54-729](https://scholar.google.com/citations?user=2tf2koEAAAAJ))
 
 #### Name
 邢书豪 | Shuhao Xing
